@@ -5,7 +5,7 @@
 # You should use sleep to avoid wasting CPU unnecessarily.
 
 pidwait() {
-    while kill - "$1" 2>/dev/null; d
+    while kill - "$1" 2>/dev/null; do
         sleep 1
     done
     ls
