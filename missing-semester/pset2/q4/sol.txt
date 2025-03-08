@@ -1,0 +1,2 @@
+Use find to find recursively and -print0 flag to handle spaces
+Then use xargs to connect zip command to create zip file

@@ -1,0 +1,2 @@
+Creating a environmental variable
+Access it for the path
